@@ -1,6 +1,7 @@
 ## Olá! Eu sou Hitalo Faria Almeida
 
-- Estudante de Ciência da Computação na FUMEC
+- Estudante de Ciência da Computação
+- FUMEC
 
   <div>
     <a href="https://github.com/MrHitalo">

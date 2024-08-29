@@ -35,22 +35,23 @@
 ## 📬 Contato
 
 <div align="center">
-  <a href="https://linkedin.com/in/seu-perfil" target="_blank">
+  <a href="https://www.linkedin.com/in/hitalofariaalmeida/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:seu.email@exemplo.com">
+  <a href="mailto:hitalofariaalmeida1602@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
 
 ---
+<!--
 
 ## 🐍 Cobrinha de Contribuição
 
 ![snake gif](https://github.com/MrHitalo/MrHitalo/blob/output/github-contribution-grid-snake.svg)
 
+-->
 ---
-
 ## 🌟 Projeto Destaque
 
 > Descreva aqui seu projeto mais relevante ou destaque algum repositório importante com um link direto.
@@ -60,8 +61,8 @@
 ## 🎯 Objetivos
 
 - 📚 Aprender mais sobre desenvolvimento front-end e back-end.
-- 🤝 Contribuir com projetos open-source.
-- 🚀 Desenvolver novas habilidades em **Machine Learning** e **Data Science**.
+- 📚 Aprender sobre analise de dados.
+- 🚀 Estágio para desenvolver novas habilidades.
 
 ---
 

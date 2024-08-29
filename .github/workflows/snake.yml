@@ -12,17 +12,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Passo para clonar o repositório
+      # Clona o repositório
       - uses: actions/checkout@v2
 
-      # Passo para gerar a animação da cobrinha
+      # Gera o gráfico da cobra de contribuições
       - name: Generate Snake Game
         uses: Platane/snk/svg-only@v2
         with:
-          github_user_name: MrHitalo # Substitua pelo seu nome de usuário
-          outputs: dist
+          github_user_name: MrHitalo # Substitua por seu nome de usuário do GitHub corretamente
 
-      # Passo para fazer o deploy da animação para a branch "output"
+      # Faz o deploy da animação para a branch "output"
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.1.3
         with:

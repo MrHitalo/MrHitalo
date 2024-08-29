@@ -1,29 +1,81 @@
-## Olá! Eu sou Hitalo Faria Almeida
+# 👋 Olá! Eu sou Hitalo Faria Almeida
 
-- Estudante de Ciência da Computação
-- FUMEC
+- 🎓 **Estudante de Ciência da Computação**
+- 🏫 **FUMEC**
 
-  <div>
-    <a href="https://github.com/MrHitalo">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrHitalo&show_icons=true&theme=radical">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrHitalo&layout=compact&theme=radical">
-  </div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Hitalo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Hitalo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Hitalo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Hitalo-Angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
-  <img align="center" alt="Hitalo-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-  <img align="center" alt="Hitalo-php" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-  <img align="center" alt="Hitalo-sql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Hitalo-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MrHitalo&show_icons=true&theme=radical" alt="MrHitalo's GitHub Stats"/>
 </div>
 
-<div>
-  <a  href="https://www.linkedin.com/in/hitalofariaalmeida/" target="_blank" alt="Linkedin"> 
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:hitalofariaalmeida1602@gmail.com" target="_blank" alt="Gmail">
-   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrHitalo&layout=compact&theme=radical" alt="Most Used Languages"/>
 </div>
-  
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+</div>
+
+---
+
+## 📬 Contato
+
+<div align="center">
+  <a href="https://linkedin.com/in/seu-perfil" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:seu.email@exemplo.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
+
+---
+
+## 🐍 Cobrinha de Contribuição
+
+![snake gif](https://github.com/MrHitalo/MrHitalo/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🌟 Projeto Destaque
+
+> Descreva aqui seu projeto mais relevante ou destaque algum repositório importante com um link direto.
+
+---
+
+## 🎯 Objetivos
+
+- 📚 Aprender mais sobre desenvolvimento front-end e back-end.
+- 🤝 Contribuir com projetos open-source.
+- 🚀 Desenvolver novas habilidades em **Machine Learning** e **Data Science**.
+
+---
+
+## 🌱 Atualmente Aprendendo
+
+- Pilhas e Filas em C
+- Análise de algorítimo
+
+---
+
+## 🎉 Agradecimentos
+
+Agradeço por visitar meu perfil e explorar meus projetos. Sinta-se à vontade para entrar em contato ou contribuir em qualquer repositório!
+
+---
+
+Feito por [Hitalo Faria Almeida](https://github.com/MrHitalo)

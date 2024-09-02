@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrHitalo&layout=compact&theme=radical" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrHitalo&layout=compact&theme=radical&show-icons=true alt="Most Used Languages"/>
 </div>
 
 ---

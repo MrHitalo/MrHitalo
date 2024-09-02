@@ -11,8 +11,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MrHitalo&show_icons=true&theme=radical" alt="MrHitalo's GitHub Stats"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrHitalo&layout=compact&theme=radical&show-icons=true alt="Most Used Languages"/>
+<div align="center" size="155px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrHitalo&layout=compact&theme=radical" alt="Top Langs" />
 </div>
 
 ---

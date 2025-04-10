@@ -2,6 +2,7 @@
 
 - 🎓 **Estudante de Ciência da Computação**
 - 🏫 **FUMEC**
+- **Atualmente estágiando na WBM Technology**
 
 ---
 
@@ -31,8 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"  height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" height="40" width="40"/>
-
-          
 </div>
 
 ---
@@ -52,17 +51,7 @@
 
 ## 🎯 Objetivos
 
-- 📚 Aprender mais sobre desenvolvimento front-end e back-end.
-- 📚 Aprender sobre analise de dados.
-- 🚀 Estágio para desenvolver novas habilidades.
-
----
-
-## 🌱 Atualmente Aprendendo
-
-- Pilhas e Filas em C
-- Análise de algorítimo
-
+- 📚 Aprender mais sobre desenvolvimento Full-Stack.
 ---
 
 ## 🎉 Agradecimentos

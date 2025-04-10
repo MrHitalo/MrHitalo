@@ -15,11 +15,6 @@
 <div align="center" size="155px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrHitalo&theme=radical"alt="Top Langs"/>
 </div>
-
-<div align="center" size="155px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrHitalo&theme=radical&hide_border=false"/>
-</div>
-
 ---
 
 ## 🛠️ Tecnologias e Ferramentas

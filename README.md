@@ -7,15 +7,11 @@
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
+<div style="display:inline-block;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrHitalo&theme=radical"alt="Top Langs" height="195"/>
   <img src="https://github-readme-stats.vercel.app/api?username=MrHitalo&show_icons=true&theme=radical"alt="MrHitalo's GitHub Stats"/>
-</div>
+<div>
 
-<div align="center" size="155px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrHitalo&theme=radical"alt="Top Langs"/>
-</div>
----
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -30,8 +26,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" height="40" width="40"/>
 
 </div>
-
----
 
 ## 📬 Contato
 

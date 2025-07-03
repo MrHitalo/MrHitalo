@@ -43,7 +43,6 @@
 ## 🎯 Objetivos
 
 - 📚 Aprender mais sobre desenvolvimento Full-Stack.
-- ✈ Trabalhar remotamente em outro País 
 ---
 
 ## 🎉 Agradecimentos

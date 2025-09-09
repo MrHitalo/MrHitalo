@@ -2,7 +2,7 @@
 
 - 🎓 **Estudante de Ciência da Computação**
 - 🏫 **FUMEC**
-- **Atualmente estágiando na WBM Technology - FullStack**
+- **💼 Atualmente estágiando na WBM Technology - FullStack**
 
 ---
 

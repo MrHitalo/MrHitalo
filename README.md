@@ -56,10 +56,8 @@
 | Projeto | Descrição | Tecnologias | Código |
 |---------|-----------|-------------|--------|
 | API | Fazer monitoramento de disversos dipositivos IoT | Node.js, TS, MySQL | [Repositório](https://github.com/MrHitalo/Api) |
-| Gaveta | Faz leitura de  | (Preencher) | [Repositório](https://github.com/MrHitalo/Gaveta) |
-| Comunicação Alimentadores | (Descreva objetivo técnico / hardware se aplicável) | (Preencher) | [Repositório](https://github.com/WbmProjetoAlimentador/ComunicacaoAlimentadores) |
-
-> Dica: Preencha as descrições com o problema resolvido e um diferencial técnico (cache? middlewares?).
+| Gaveta | Faz leitura de dados coletados por esp32 via wifi | Node.js, JS, TS, React | [Repositório](https://github.com/MrHitalo/Gaveta) |
+| Comunicação Alimentadores | Comunicação com sensores de alimetador para leitura e recebimento de comandos | Node.js, JS | [Repositório](https://github.com/WbmProjetoAlimentador/ComunicacaoAlimentadores) |
 
 ---
 
@@ -94,11 +92,7 @@ flowchart LR
 
 ## 🤝 Como colaborar
 
-1. Faça um fork
-2. Crie uma branch: `feat/nome-da-feature`
-3. Abra um Pull Request explicando contexto e motivação
-
-Sinta-se à vontade para abrir issues com ideias ou melhorias.
+1. Faça um fork para contribuir e implementar também as suas ideias.
 
 ---
 

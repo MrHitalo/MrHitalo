@@ -65,16 +65,13 @@
 
 - [ ] Implementar testes unitários e de integração em projeto de API.
 - [ ] Estudar Docker e compose para ambiente dev isolado.
-- [ ] Criar um pequeno dashboard em React consumindo minha própria API.
-- [ ] Adotar ESLint + Prettier padronizados em todos os repositórios.
-
 ---
 
-## 📚 Aprendizados Recentes
+## 📚 Aprendizados Próximos
 
-- (Semana 1) Refatoração de endpoints para separar camadas (controller/service/repository).
-- (Semana 2) Estudo sobre índices no MySQL para otimizar consultas.
-- (Semana 3) Introdução a testes com Jest em ambiente Node.
+- Refatoração de endpoints para separar camadas (controller/service/repository).
+- Estudo sobre índices no MySQL para otimizar consultas.
+- Introdução a testes com Jest em ambiente Node.
 
 ---
 

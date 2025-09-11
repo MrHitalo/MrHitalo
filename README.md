@@ -55,7 +55,7 @@
 
 | Projeto | Descrição | Tecnologias | Código |
 |---------|-----------|-------------|--------|
-| API | Fazer monitoramento de disversos dipositivos IoT | Node.js, TS, MySQL | [Repositório](https://github.com/MrHitalo/Api) |
+| API | Fazer monitoramento de diversos dipositivos IoT | Node.js, TS, MySQL | [Repositório](https://github.com/MrHitalo/Api) |
 | Gaveta | Faz leitura de dados coletados por esp32 via wifi | Node.js, JS, TS, React | [Repositório](https://github.com/MrHitalo/Gaveta) |
 | Comunicação Alimentadores | Comunicação com sensores de alimetador para leitura e recebimento de comandos | Node.js, JS | [Repositório](https://github.com/WbmProjetoAlimentador/ComunicacaoAlimentadores) |
 

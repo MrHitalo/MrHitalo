@@ -89,7 +89,7 @@ flowchart LR
 
 ## 🤝 Como colaborar
 
-1. Faça um fork para contribuir e implementar também as suas ideias.
+Faça um fork para contribuir e implementar também as suas ideias.
 
 ---
 

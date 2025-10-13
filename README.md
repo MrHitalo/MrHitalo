@@ -9,7 +9,7 @@
 ## 🔍 Sobre mim
 
 - 🎯 Foco atual: fortalecer base em arquitetura de APIs, boas práticas de TypeScript e React.
-- 🧠 Mentalidade: aprender construindo – prefiro validar com projetos reais.
+- 🧠 Mentalidade: aprender construindo prefiro validar com projetos reais.
 - 🤝 Aberto a: colaboração em projetos open source, revisões de código e estudos em grupo.
 - 🚀 Objetivo de médio prazo: evoluir para Desenvolvedor Full Stack júnior com domínio em backend
 

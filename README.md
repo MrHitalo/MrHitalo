@@ -5,7 +5,6 @@
 ### Desenvolvedor Full-Stack | Pronto para Entregar Valor
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hitalo%20Faria-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hitalofariaalmeida/)
-[![Email](https://img.shields.io/badge/Email-Aberto%20a%20Oportunidades-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hitalofariaalmeida1602@gmail.com)
 [![Portfolio](https://img.shields.io/badge/GitHub-Ver%20Projetos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrHitalo)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%2B+TypeScript+%2B+Node.js;Experiência+em+Produção;Sistemas+IoT+%26+Linux+Admin" alt="Typing SVG" />
@@ -172,6 +171,30 @@
 
 ---
 
+### 💈 **Barbearia Sonhador - Landing Page Profissional**
+**Problema resolvido:** Website moderno e responsivo para barbearia aumentar presença digital
+
+<details>
+<summary><b>📊 Detalhes Técnicos</b></summary>
+
+**Tecnologias:** HTML5, CSS3, JavaScript  
+**Desafios superados:**
+- Design responsivo mobile-first
+- Interface intuitiva para conversão de clientes
+- Otimização de performance e SEO
+- Layout moderno e atrativo
+
+**Resultados:**
+- ✅ Website totalmente responsivo
+- ✅ Interface profissional e moderna
+- ✅ Código limpo e bem estruturado
+
+[![Ver Código](https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github)](https://github.com/MrHitalo/BarbeariaSonhador)
+
+</details>
+
+---
+
 ### 🏢 **Sistema de Gestão Empresarial** | Projeto Pessoal
 **Problema resolvido:** Gestão completa de negócios com foco em segurança e escalabilidade
 
@@ -311,34 +334,9 @@ interface OpportunityIdeal {
 
 ### 💼 **Aberto a oportunidades de estágio e trabalho**
 
-<table>
-<tr>
-<td align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hitalofariaalmeida/)
 
-**Me adicione no LinkedIn**  
-Vamos trocar ideias sobre tech!
-
-</td>
-<td align="center">
-
-[![Email](https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hitalofariaalmeida1602@gmail.com)
-
-**hitalofariaalmeida1602@gmail.com**  
-Respondo rápido!
-
-</td>
-<td align="center">
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Mensagem-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5533999623895)
-
-**(33) 9 9962-3895**  
-Pode chamar!
-
-</td>
-</tr>
-</table>
+**Me adicione no LinkedIn para oportunidades e networking!**
 
 ---
 

@@ -38,11 +38,6 @@
 </tr>
 </table>
 
-<div align="center">
-
-### 🎯 **Disponível para:** Estágio • CLT • Remoto/Híbrido • BH/MG
-
-</div>
 
 ---
 
@@ -194,8 +189,6 @@ Landing page profissional e responsiva para barbearia aumentar presença digital
 ## 📞 Vamos Conversar?
 
 <div align="center">
-
-### 💼 **Aberto a oportunidades de estágio e trabalho**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hitalofariaalmeida/)
 

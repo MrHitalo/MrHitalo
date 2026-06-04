@@ -126,13 +126,6 @@ Dashboard em React + TypeScript para controle de alimentadores automáticos via 
 
 ---
 
-### 📡 **WBM Monitor API** | WBM Technology
-API de monitoramento em C#/.NET para gestão de dispositivos industriais em tempo real.
-
-**Stack:** C#, .NET, WebSocket
-
----
-
 ### 🛍️ **RF Atelier Handmade**
 Loja online para marca de artesanato com interface moderna em React + TypeScript.
 

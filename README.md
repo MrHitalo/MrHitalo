@@ -2,7 +2,7 @@
 
 # 👨‍💻 Hitalo Faria Almeida
 
-### Desenvolvedor Full-Stack | Pronto para Entregar Valor
+### Analista de Software Junior | Full Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hitalo%20Faria-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hitalofariaalmeida/)
 [![Portfolio](https://img.shields.io/badge/GitHub-Ver%20Projetos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrHitalo)
@@ -56,28 +56,28 @@
 
 ## 🏢 Experiência Profissional
 
-### **WBM Technology** | Estagiário Full-Stack
-📅 Mar 2025 - Atual | 📍 Belo Horizonte, MG
+### **WBM Technology** | Analista de Software Junior
+📅 2024 - Atual | 📍 Belo Horizonte, MG
 
 **Impacto no negócio:**
-- 🚀 Desenvolvi sistema de **monitoramento IoT** para alimentadores automáticos via MQTT
-- ⚡ Criei **APIs RESTful** em Java/Spring Boot integradas com dispositivos industriais
-- 🖥️ Administro **servidores Linux** em produção (Ubuntu, Docker, CI/CD com GitHub Actions)
+- 🚀 Desenvolvimento de **APIs RESTful** para sistemas industriais de monitoramento IoT
+- ⚡ Integração de dispositivos físicos via **WebSocket, MQTT e Modbus**
+- 🖥️ Administração de **servidores Linux Ubuntu** em produção com Docker e CI/CD via GitHub Actions
 - 📊 Interface web com **React + TypeScript** para dashboards em tempo real
 
-**Stack:** React, TypeScript, Java, Spring Boot, Node.js, Tailwind CSS, PostgreSQL, Docker, MQTT, Linux
+**Stack:** React, TypeScript, Node.js, Java, Spring Boot, PostgreSQL, Docker, MQTT, Linux
 
 ---
 
-### **Teknisa** | Estagiário de Desenvolvimento
-📅 Set 2024 - Fev 2025 | 📍 Belo Horizonte, MG
+### **Teknisa** | Desenvolvedor Web — Estágio
+📅 2023 - 2024 | 📍 Belo Horizonte, MG
 
 **Entregas:**
-- 🎨 Front-end com **TypeScript** e framework Zeedhi
-- 🔧 Back-end com **PHP + MySQL** para sistemas corporativos
+- 🎨 Front-end com **TypeScript** e PHP para sistemas corporativos
+- 🔧 Back-end com **PHP + MySQL** para gestão empresarial
 - 🤝 Trabalho em **squad ágil** com entrega contínua
 
-**Stack:** TypeScript, PHP, MySQL, Zeedhi, Git, Scrum
+**Stack:** PHP, TypeScript, MySQL, Git, Scrum
 
 ---
 

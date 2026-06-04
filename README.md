@@ -5,7 +5,7 @@
 ### Analista de Software Junior | Full Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hitalo%20Faria-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hitalofariaalmeida/)
-[![Portfolio](https://img.shields.io/badge/GitHub-Ver%20Projetos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrHitalo)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Ver%20Site-e94560?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mrhitalo.github.io/portfolio/)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%2B+TypeScript+%2B+Java;Experi%C3%AAncia+em+Produ%C3%A7%C3%A3o;Sistemas+IoT+%26+Linux+Admin" alt="Typing SVG" />
 
